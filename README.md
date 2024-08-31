@@ -1,8 +1,6 @@
 # ml-challenge
 
-This is a basic practical challenge about **Machine Learning** with Python.
-
-Check the **develop** branch to see the `ipynb` file with all of my documented workflow and annotations.
+This is a practical challenge about **Machine Learning** with Python.
 
 ## Tasks
 Analyze a database and, based on it:
